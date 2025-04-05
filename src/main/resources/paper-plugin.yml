@@ -1,0 +1,5 @@
+name: voxUtils
+version: '1.0-SNAPSHOT'
+main: io.github.overo3.voxUtils.VoxUtils
+bootstrapper: io.github.overo3.voxUtils.VoxUtilsBootstrap
+api-version: '1.21'
